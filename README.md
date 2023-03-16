@@ -52,7 +52,7 @@ nesta pasta existem alguns arquivos que você pode inserir os dados para o seu s
 
 - iconsSkills.ts - para alterar possíveis icones na página de skills
 - softSkills.ts - para alterar informações de soft sillks na página de skills
-- textsPages.json - arquivo de texto e imagens que abrage todas as páginas do site
+- textsPages.json - arquivo de texto e imagens que abrange todas as páginas do site
 
 ## Publicando o site. 
 
