@@ -1,11 +1,11 @@
 export const SoftSkills = [
     {
         icon: '',
-        title: 'Clean Code'
+        title: 'Lorem ipsum'
     },
     {
         icon: '',
-        title: 'Clean Architecture'
+        title: 'Lorem'
     },
     {
         icon: '',
@@ -23,7 +23,7 @@ export const SoftSkills_two = [
     },
     {
         icon: '',
-        title: 'Agile Methodologies'
+        title: 'Lorem ipsum'
     },
     {
         icon: '',
@@ -31,6 +31,6 @@ export const SoftSkills_two = [
     },
     {
         icon: '',
-        title: 'SOLID'
+        title: 'Lorem'
     }
 ]

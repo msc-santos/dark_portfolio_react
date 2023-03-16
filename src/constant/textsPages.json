@@ -1,21 +1,21 @@
 {
-  "link_site": "https://msc-santos.github.io/portfolio",
-  "link_send_email": "https://formsubmit.co/marcossamuel17@gmail.com",
-  "link_your_github": "https://github.com/msc-santos",
-  "link_yout_linkedin": "https://www.linkedin.com/in/marcos-samuel-1710",
+  "link_site": "link your portfolio",
+  "link_send_email": "link your mail to send messages",
+  "link_your_github": "link_your_github",
+  "link_yout_linkedin": "link_yout_linkedin",
   "home": {
-    "title": "Hello, i am Marcos, nice to meet you!",
-    "sub-title": "I am a frontend software engineer, and mobile software engineer!"
+    "title": "Hello, i am Developer, nice to meet you!",
+    "sub-title": "I am a fullstack software engineer!"
   },
   "about": {
     "title": "About",
-    "text": "Hello, I am Marcos, i´m from Brazil, and i´m a front-end software engineer. I'm 27 years old. I consider myself a dynamic and of easy relationship interpersonal, capable of a team job and fast learn, and job dedicated.",
-    "sub-text": "I like movies, musics and i play guittar, like soccer too, and love build new things."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet, velit et posuere mollis, risus felis lacinia leo, quis cursus felis turpis eu quam. Donec ac arcu mi. Aenean tincidunt mi mollis massa rhoncus, sed finibus nibh scelerisque. Morbi eget lectus eu metus sollicitudin posuere. Donec nec aliquam metus. Nunc id ligula suscipit ipsum imperdiet vestibulum. Morbi iaculis nunc vitae metus placerat ornare. Proin volutpat sapien nec quam ullamcorper, non dignissim ante bibendum.",
+    "sub-text": "Aliquam ut scelerisque nisi. Proin in tellus placerat, dignissim risus quis."
   },
   "skills": {
     "title": "Skills",
-    "text": "I love technologys, and i am be aways learns new things. These is some technologys i work.",
-    "sub-text": "Some Skills do not depend on a specific technology, but on concepts, good practices and problem solving. Some of my soft skills.",
+    "text": "I love technologys.",
+    "sub-text": "Soft Skills",
     "languages": "Programming and Markup languages: ",
     "frameworks_technologies": "Frameworks & Technologies: ",
     "tools_latforms": "Databases, Tools & Platforms: "
@@ -24,14 +24,14 @@
     "title": "Education",
     "values": [
       {
-        "title": "Graduate in system analysis and developer",
-        "date": "2014 - 2016",
-        "where": "Estácio Natal, RN, Brazil"
+        "title": "Graduate in system developer",
+        "date": "2017 - 2020",
+        "where": "New York"
       },
       {
-        "title": "Postgraduate in mobile applications system developer - in progress",
+        "title": "Graduate in system developer Engineer - in progress",
         "date": "2021 - 2023",
-        "where": "FMU Natal, RN, Brazil"
+        "where": "Bostom"
       }
     ]
   },
@@ -39,24 +39,19 @@
     "title": "Experiences",
     "values": [
       {
-        "title": "Junior programmer and It Support",
-        "date": "2016 - 2018",
-        "where": "at the Grupo Morada company from October 17th, 2016 up to October 05th, 2018"
-      },
-      {
         "title": "Full Stack developer",
-        "date": "2018 - 2020",
-        "where": "at the Economy Software company from December 10th, 2018 up to January 24th, 2020"
+        "date": "2016 - 2019",
+        "where": "placerat ornare. Proin volutpat sapien nec quam ullamcorper, non dignissim ante bibendum."
       },
       {
         "title": "Full Stack developer",
         "date": "2020 - 2022",
-        "where": "at the Grupo Morada company from July 20th, 2020 up to April 29th, 2022"
+        "where": "placerat ornare. Proin volutpat sapien nec quam ullamcorper, non dignissim ante bibendum."
       },
       {
-        "title": "Frontend developer",
-        "date": "2022 - moment",
-        "where": " since may 5th, 2022 up to at the moment"
+        "title": "Full Stack developer",
+        "date": "2022 - 2023",
+        "where": "placerat ornare. Proin volutpat sapien nec quam ullamcorper, non dignissim ante bibendum."
       }
     ]
   },
@@ -66,44 +61,34 @@
     "button_git": "View GitHub",
     "projects": [
       {
-        "title": "Website of ticket printing",
-        "description": "This is a project that I developed together with my co-workers, where it is possible for a client to access the site, and informing their contract data or CPF, issues their bill for the month.",
-        "image": "segunda_via.png",
-        "alt": "ticket printing",
-        "size": "200",
+        "title": "Project One",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet, velit et posuere mollis, risus felis lacinia leo, quis cursus felis turpis eu quam.",
+        "image": "/logo192.png",
+        "alt": "logo",
+        "size": "",
         "chips": ["Javascript", "React", "Node", "Express", "AWS", "Git", "GitHub"],
-        "link_project": "https://servicos.moradadapaz.com.br/segundavia",
-        "github": ""
+        "link_project": "your link project",
+        "github": "your link project github"
       },
       {
-        "title": "Web GM",
-        "description": "WebGM is a system that I developed together with my co-workers, it is a system intended for internal use by employees of the company, with it it is possible for each employee to log in and access their environment of work.",
-        "image": "wgm.png",
-        "alt": "Web GM",
-        "size": "170",
+        "title": "Project Two",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet, velit et posuere mollis, risus felis lacinia leo, quis cursus felis turpis eu quam.",
+        "image": "/logo192.png",
+        "alt": "logo",
+        "size": "",
         "chips": ["Javascript", "React", "Node", "Express", "AWS", "Git", "GitHub", "PostgreSQL"],
-        "link_project": "https://webgm.moradadapaz.com.br/signin",
-        "github": ""
+        "link_project": "your link project",
+        "github": "your link project github"
       },
       {
-        "title": "Notation",
-        "description": "Notation app, developed in partnership with the company Cout, it has the purpose of managing the entire scale of professionals of a company",
-        "image": "escala_app_2.png",
-        "alt": "Notation app",
-        "size": "170",
-        "chips": ["Vue-JS", "Laravel", "netlify", "Git", "GitLab"],
-        "link_project": "https://escala-app.netlify.app/login",
-        "github": ""
-      },
-      {
-        "title": "App detection object",
-        "description": "App to detect table objects, I used tensorflow with flutter to develop the app.",
-        "image": "smartphone.png",
-        "alt": "detection app",
-        "size": "200",
-        "chips": ["Dart", "Flutter", "TensorFlow", "Git", "GitHub"],
-        "link_project": "",
-        "github": "https://github.com/msc-santos/detection_object"
+        "title": "Project Three",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet, velit et posuere mollis, risus felis lacinia leo, quis cursus felis turpis eu quam.",
+        "image": "/logo192.png",
+        "alt": "logo",
+        "size": "",
+        "chips": ["Javascript", "React", "Node", "Express", "AWS", "Git", "GitHub", "PostgreSQL"],
+        "link_project": "your link project",
+        "github": "your link project github"
       }
     ]
   },

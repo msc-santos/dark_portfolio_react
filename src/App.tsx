@@ -13,6 +13,10 @@ import Projects from "src/pages/Projects";
 import TalkToMe from "src/pages/TalkToMe";
 import Modal from "src/components/Modal";
 
+// TODO: Alterar conteúdo de texto e imagens 
+// TODO: Alterar o readme inserindo informações importantes de como clonar alterar e publicar o projeto 
+// TODO: Inserir o license e outros pontos que precisarem 
+
 function App() {
   const theme = useTheme()
   

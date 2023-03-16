@@ -1,6 +1,8 @@
 import { useState } from 'react'
-import { Button, Card, CardActions, CardContent, CardMedia, Typography, Grid, Chip, Alert } from "@mui/material";
+import { Button, Card, CardActions, CardContent, Typography, Grid, Chip, Alert } from "@mui/material";
 import textsPages from 'src/constant/textsPages.json'
+
+import Image from 'src/assets/images/about-img.png'
 
 const CardComponent = ({ project }: any) => {
   const [showMessage, setShowMessage] = useState<string>('')
@@ -16,12 +18,11 @@ const CardComponent = ({ project }: any) => {
 
   return (
       <Grid item xs={12} sm={12} md={4} lg={4}>
-        <Card sx={{ height: 545 }}>
-          {showMessage === '' && <CardMedia
-            component="img"
+        <Card sx={{ height: 700 }}>
+          {showMessage === '' && <img
             alt={project.alt}
             height={project.size}
-            image={project.image}
+            src={Image}
           />}
           <CardContent>
             {showMessage !== '' && <Alert severity="warning">{showMessage}</Alert>}
