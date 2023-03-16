@@ -1,12 +1,12 @@
 <h1 align="center">
-  📰<br>Meu Portfólio
+  📰<br>Módelo de Portfólio dark feito com Material-UI.
 </h1>
 
 <h4 align="center">
-  Portfólio criado para publicar meus projetos e os projetos em que participei ao longo de minha carreira.
+  Portfólio criado para quem desejar ter seu site de publicação sem muitas alterações.
 </h4>
 
-<h4 align="center"><a href="https://msc-santos.github.io/portfolio">Clique aqui, para visitar.</a></h4>
+<h4 align="center"><a href="https://msc-santos.github.io/dark_portfolio_react">Clique aqui, para visitar o projeto.</a></h4>
 
 ## 📚 Seções
 
@@ -29,10 +29,45 @@ No desenvolvimento do site utilizei as seguintes tecnologias:
 - [Material-UI](https://mui.com/)
 - [react-tsparticles](https://www.npmjs.com/package/react-tsparticles)
 - [react-vertical-timeline-component](https://www.npmjs.com/package/react-vertical-timeline-component)
+- [gh-pages](https://www.npmjs.com/package/gh-pages)
 
 ---
 
-### Autor
+## 🚀 Iniciando o projeto
+
+```bash
+
+- clone o projeto: git clone https://github.com/msc-santos/dark_portfolio_react.git
+- Instale as dependências: npm i
+- Rode o porjeto: npm start
+
+```
+
+## Alterações para criar seu próprio site: 
+
+Para você fazer suas alteações basta abrir a pasta: "src/constant/"
+nesta pasta existem alguns arquivos que você pode inserir os dados para o seu site: textos, imagens, icones.
+
+#### Os arquivos para alteração são: 
+
+- iconsSkills.ts - para alterar possíveis icones na página de skills
+- softSkills.ts - para alterar informações de soft sillks na página de skills
+- textsPages.json - arquivo de texto e imagens que abrage todas as páginas do site
+
+## Publicando o site. 
+
+O projeto está configurado com a lib gh-pages, então no arquivo de package.json, você precisará apenas informar a URL do site em "homepage".
+lembre-se de inserir seu usuário do github e o nome escolhido para o repositório. Após isso rode o comando: 
+
+```bash
+
+npm run deploy 
+
+```
+
+que já está configurado no package.json, e aguardar até o deploy do seu site finalizar. 
+
+## Autor
 # Marcos Santos
 
 <div>
