@@ -1,0 +1,123 @@
+{
+  "link_site": "https://msc-santos.github.io/portfolio",
+  "link_send_email": "https://formsubmit.co/marcossamuel17@gmail.com",
+  "link_your_github": "https://github.com/msc-santos",
+  "link_yout_linkedin": "https://www.linkedin.com/in/marcos-samuel-1710",
+  "home": {
+    "title": "Hello, i am Marcos, nice to meet you!",
+    "sub-title": "I am a frontend software engineer, and mobile software engineer!"
+  },
+  "about": {
+    "title": "About",
+    "text": "Hello, I am Marcos, i´m from Brazil, and i´m a front-end software engineer. I'm 27 years old. I consider myself a dynamic and of easy relationship interpersonal, capable of a team job and fast learn, and job dedicated.",
+    "sub-text": "I like movies, musics and i play guittar, like soccer too, and love build new things."
+  },
+  "skills": {
+    "title": "Skills",
+    "text": "I love technologys, and i am be aways learns new things. These is some technologys i work.",
+    "sub-text": "Some Skills do not depend on a specific technology, but on concepts, good practices and problem solving. Some of my soft skills.",
+    "languages": "Programming and Markup languages: ",
+    "frameworks_technologies": "Frameworks & Technologies: ",
+    "tools_latforms": "Databases, Tools & Platforms: "
+  },
+  "education": {
+    "title": "Education",
+    "values": [
+      {
+        "title": "Graduate in system analysis and developer",
+        "date": "2014 - 2016",
+        "where": "Estácio Natal, RN, Brazil"
+      },
+      {
+        "title": "Postgraduate in mobile applications system developer - in progress",
+        "date": "2021 - 2023",
+        "where": "FMU Natal, RN, Brazil"
+      }
+    ]
+  },
+  "Experiences": {
+    "title": "Experiences",
+    "values": [
+      {
+        "title": "Junior programmer and It Support",
+        "date": "2016 - 2018",
+        "where": "at the Grupo Morada company from October 17th, 2016 up to October 05th, 2018"
+      },
+      {
+        "title": "Full Stack developer",
+        "date": "2018 - 2020",
+        "where": "at the Economy Software company from December 10th, 2018 up to January 24th, 2020"
+      },
+      {
+        "title": "Full Stack developer",
+        "date": "2020 - 2022",
+        "where": "at the Grupo Morada company from July 20th, 2020 up to April 29th, 2022"
+      },
+      {
+        "title": "Frontend developer",
+        "date": "2022 - moment",
+        "where": " since may 5th, 2022 up to at the moment"
+      }
+    ]
+  },
+  "Projects": {
+    "title": "Projects",
+    "button_project": "View Project",
+    "button_git": "View GitHub",
+    "projects": [
+      {
+        "title": "Website of ticket printing",
+        "description": "This is a project that I developed together with my co-workers, where it is possible for a client to access the site, and informing their contract data or CPF, issues their bill for the month.",
+        "image": "segunda_via.png",
+        "alt": "ticket printing",
+        "size": "200",
+        "chips": ["Javascript", "React", "Node", "Express", "AWS", "Git", "GitHub"],
+        "link_project": "https://servicos.moradadapaz.com.br/segundavia",
+        "github": ""
+      },
+      {
+        "title": "Web GM",
+        "description": "WebGM is a system that I developed together with my co-workers, it is a system intended for internal use by employees of the company, with it it is possible for each employee to log in and access their environment of work.",
+        "image": "wgm.png",
+        "alt": "Web GM",
+        "size": "170",
+        "chips": ["Javascript", "React", "Node", "Express", "AWS", "Git", "GitHub", "PostgreSQL"],
+        "link_project": "https://webgm.moradadapaz.com.br/signin",
+        "github": ""
+      },
+      {
+        "title": "Notation",
+        "description": "Notation app, developed in partnership with the company Cout, it has the purpose of managing the entire scale of professionals of a company",
+        "image": "escala_app_2.png",
+        "alt": "Notation app",
+        "size": "170",
+        "chips": ["Vue-JS", "Laravel", "netlify", "Git", "GitLab"],
+        "link_project": "https://escala-app.netlify.app/login",
+        "github": ""
+      },
+      {
+        "title": "App detection object",
+        "description": "App to detect table objects, I used tensorflow with flutter to develop the app.",
+        "image": "smartphone.png",
+        "alt": "detection app",
+        "size": "200",
+        "chips": ["Dart", "Flutter", "TensorFlow", "Git", "GitHub"],
+        "link_project": "",
+        "github": "https://github.com/msc-santos/detection_object"
+      }
+    ]
+  },
+  "TalkToMe": {
+    "title": "Talk to me",
+    "button": "Send",
+    "borderRadius": 2,
+    "borderTop": 5,
+    "sizeIcons": "50",
+    "send": {
+      "title": "Send a message.",
+      "title_secondary": "Pages to contact.",
+      "text": "If you want to chat with me, don't hesitate to send me a message.",
+      "text_secondary": "You can find me in these social medias."
+    }
+  }
+}
